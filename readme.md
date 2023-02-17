@@ -1,6 +1,6 @@
 # Keebs
 
-My keyboard realted stuff.
+My keyboard related stuff.
 
 ## Switch Stock
 
