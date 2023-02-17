@@ -2,6 +2,12 @@
 
 My keyboard related stuff.
 
+## Sound Tests
+
+* Keyboards: https://www.youtube.com/playlist?list=PLkdl7PZ0ThV73s7npBp-ebjgZmCkOe97V
+* DOIO sound tests: https://www.youtube.com/playlist?list=PLkdl7PZ0ThV6acTvZnGU3gREz8XoLlfXU
+
+
 ## Switch Stock
 
 |Name                                 |Type       |Units|Location    |TOTAL|
