@@ -10,25 +10,25 @@ My keyboard related stuff.
 
 ## Switch Stock
 
-|Name                                 |Type       |Units|Location    |TOTAL|
-|-------------------------------------|-----------|-----|------------|-----|
-|Cherry MV Viola                     |crosslinear|100  |box         |1476|
-|Cherry MX Black Hyperglide          |linear     |90   |box         |     |
-|Cherry MX Black RGB                 |linear     |70   |box         |     |
-|Cherry MX Brown                     |tactile    |100  |box         |     |
-|Cherry MX Brown                     |tactile    |83   |keychron v1 |     |
-|Cherry MX Clear                     |tactile    |90   |box         |     |
-|Cherry MX Red                       |linear     |33   |box         |     |
-|Cherry MX Red                       |linear     |57   |aurora lily58|     |
-|Cherry MX Speed Silver              |linear     |22   |box         |     |
-|Cherry MX Speed Silver              |linear     |66   |keychron q2 |     |
-|Chherry MX Black - Nixie            |linear     |90   |box         |     |
-|Gateron Ink Black V2                |linear     |80   |box         |     |
-|Gateron Silver Pro                  |linear     |70   |box         |     |
-|Gazzew Boba U4T Thocky              |tactile    |90   |box         |     |
-|JWK Durock T1                       |tactile    |80   |box         |     |
-|JWK Mint Chocolate                  |tactile    |91   |box         |     |
-|Keychron Brown                      |tactile    |84   |box         |     |
-|Thic Tock Marshmallow               |linear     |90   |box         |     |
-|Wuque Studio Aurora Fog             |linear     |22   |box         |     |
-|Wuque Studio Aurora Fog             |linear     |68   |melgeek mojo68|     |
+| |Name                                 |Type       |Units|Location    |TOTAL|
+|---|-------------------------------------|-----------|-----|------------|-----|
+|1. |Cherry MV Viola                     |crosslinear|100  |box         |1476|
+|2. |Cherry MX Black Hyperglide          |linear     |90   |box         |     |
+|3. |Cherry MX Black RGB                 |linear     |70   |box         |     |
+|4. |Cherry MX Brown                     |tactile    |100  |box         |     |
+|5. |Cherry MX Brown                     |tactile    |83   |keychron v1 |     |
+|6. |Cherry MX Clear                     |tactile    |90   |box         |     |
+|7. |Cherry MX Red                       |linear     |33   |box         |     |
+|8. |Cherry MX Red                       |linear     |57   |aurora lily58|     |
+|9. |Cherry MX Speed Silver              |linear     |22   |box         |     |
+|10. |Cherry MX Speed Silver              |linear     |66   |keychron q2 |     |
+|11. |Chherry MX Black - Nixie            |linear     |90   |box         |     |
+|12. |Gateron Ink Black V2                |linear     |80   |box         |     |
+|13. |Gateron Silver Pro                  |linear     |70   |box         |     |
+|14. |Gazzew Boba U4T Thocky              |tactile    |90   |box         |     |
+|15. |JWK Durock T1                       |tactile    |80   |box         |     |
+|16. |JWK Mint Chocolate                  |tactile    |91   |box         |     |
+|17. |Keychron Brown                      |tactile    |84   |box         |     |
+|18. |Thic Tock Marshmallow               |linear     |90   |box         |     |
+|19. |Wuque Studio Aurora Fog             |linear     |22   |box         |     |
+|20. |Wuque Studio Aurora Fog             |linear     |68   |melgeek mojo68|     |
