@@ -22,7 +22,7 @@ My keyboard related stuff.
 |8. |Cherry MX Red                       |linear     |57   |aurora lily58|     |
 |9. |Cherry MX Speed Silver              |linear     |22   |box         |     |
 |10. |Cherry MX Speed Silver              |linear     |66   |keychron q2 |     |
-|11. |Chherry MX Black - Nixie            |linear     |90   |box         |     |
+|11. |Cherry MX Black - Nixie            |linear     |90   |box         |     |
 |12. |Gateron Ink Black V2                |linear     |80   |box         |     |
 |13. |Gateron Silver Pro                  |linear     |70   |box         |     |
 |14. |Gazzew Boba U4T Thocky              |tactile    |90   |box         |     |
