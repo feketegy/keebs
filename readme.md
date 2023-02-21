@@ -12,7 +12,7 @@ My keyboard related stuff.
 
 | |Name                                 |Type       |Units|Location    |TOTAL|
 |---|-------------------------------------|-----------|-----|------------|-----|
-|1. |Cherry MV Viola                     |crosslinear|100  |box         |1566|
+|1. |Cherry MV Viola                     |crosslinear|100  |box         |1575|
 |2. |Cherry MX Black Hyperglide          |linear     |90   |box         |     |
 |3. |Cherry MX Black RGB                 |linear     |70   |box         |     |
 |4. |Cherry MX Brown                     |tactile    |100  |box         |     |
@@ -26,7 +26,7 @@ My keyboard related stuff.
 |12. |Gateron Ink Black V2                |linear     |80   |box         |     |
 |13. |Gateron Silver Pro                  |linear     |70   |box         |     |
 |14. |Gazzew Boba U4T Thocky              |tactile    |90   |box         |     |
-|15. |Gazzew Boba Black U4T Thocky        |tactile    |90   |box         |     |
+|15. |Gazzew Boba Black U4T Thocky        |tactile    |99   |box         |     |
 |16. |JWK Durock T1                       |tactile    |80   |box         |     |
 |17. |JWK Mint Chocolate                  |tactile    |91   |box         |     |
 |18. |Keychron Brown                      |tactile    |84   |box         |     |
