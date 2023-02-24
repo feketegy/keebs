@@ -17,19 +17,20 @@ My keyboard related stuff.
 |3. |Cherry MX Black RGB                 |linear     |70   |box         |     |
 |4. |Cherry MX Brown                     |tactile    |100  |box         |     |
 |5. |Cherry MX Brown                     |tactile    |83   |keychron v1 |     |
-|6. |Cherry MX Clear                     |tactile    |90   |box         |     |
-|7. |Cherry MX Red                       |linear     |33   |box         |     |
-|8. |Cherry MX Red                       |linear     |57   |aurora lily58|     |
-|9. |Cherry MX Speed Silver              |linear     |88   |box         |     |
-|10. |Cherry MX Black - Nixie            |linear     |90   |box         |     |
-|11. |Gateron Ink Black V2                |linear     |80   |box         |     |
-|12. |Gateron Silver Pro                  |linear     |70   |box         |     |
-|13. |Gazzew Boba U4T Thocky              |tactile    |90   |box         |     |
-|14. |Gazzew Boba Black U4T Thocky        |tactile    |33   |box         |     |
-|15. |Gazzew Boba Black U4T Thocky        |tactile    |66   |keychron q2         |     |
-|16. |JWK Durock T1                       |tactile    |80   |box         |     |
-|17. |JWK Mint Chocolate                  |tactile    |91   |box         |     |
-|18. |Keychron Brown                      |tactile    |84   |box         |     |
-|19. |Thic Tock Marshmallow               |linear     |90   |box         |     |
-|20. |Wuque Studio Aurora Fog             |linear     |22   |box         |     |
-|21. |Wuque Studio Aurora Fog             |linear     |68   |melgeek mojo68|     |
+|6. |Cherry MX Clear                     |tactile    |30   |box         |     |
+|7. |Cherry MX Clear                     |tactile    |60   |keychron q60         |     |
+|8. |Cherry MX Red                       |linear     |33   |box         |     |
+|9. |Cherry MX Red                       |linear     |57   |aurora lily58|     |
+|10. |Cherry MX Speed Silver              |linear     |88   |box         |     |
+|11. |Cherry MX Black - Nixie            |linear     |90   |box         |     |
+|12. |Gateron Ink Black V2                |linear     |80   |box         |     |
+|13. |Gateron Silver Pro                  |linear     |70   |box         |     |
+|14. |Gazzew Boba U4T Thocky              |tactile    |90   |box         |     |
+|15. |Gazzew Boba Black U4T Thocky        |tactile    |33   |box         |     |
+|16. |Gazzew Boba Black U4T Thocky        |tactile    |66   |keychron q2         |     |
+|17. |JWK Durock T1                       |tactile    |80   |box         |     |
+|18. |JWK Mint Chocolate                  |tactile    |91   |box         |     |
+|19. |Keychron Brown                      |tactile    |84   |box         |     |
+|20. |Thic Tock Marshmallow               |linear     |90   |box         |     |
+|21. |Wuque Studio Aurora Fog             |linear     |22   |box         |     |
+|22. |Wuque Studio Aurora Fog             |linear     |68   |melgeek mojo68|     |
