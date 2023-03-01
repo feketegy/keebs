@@ -12,7 +12,7 @@ My keyboard related stuff.
 
 | |Name                                 |Type       |Units|Location    |TOTAL|
 |---|-------------------------------------|-----------|-----|------------|-----|
-|1. |Cherry MV Viola                     |crosslinear|100  |box         |1575|
+|1. |Cherry MV Viola                     |crosslinear|100  |box         |1683|
 |2. |Cherry MX Black Hyperglide          |linear     |90   |box         |     |
 |3. |Cherry MX Black RGB                 |linear     |70   |box         |     |
 |4. |Cherry MX Brown                     |tactile    |100  |box         |     |
@@ -31,6 +31,8 @@ My keyboard related stuff.
 |17. |JWK Durock T1                       |tactile    |80   |box         |     |
 |18. |JWK Mint Chocolate                  |tactile    |91   |box         |     |
 |19. |Keychron Brown                      |tactile    |84   |box         |     |
-|20. |Thic Tock Marshmallow               |linear     |90   |box         |     |
-|21. |Wuque Studio Aurora Fog             |linear     |22   |box         |     |
-|22. |Wuque Studio Aurora Fog             |linear     |68   |melgeek mojo68|     |
+|20. | NovelKeys_ Cream+                  |linear     |108  |box         |     |
+|21. |Thic Tock Marshmallow               |linear     |9   |box         |     |
+|22. |Thic Tock Marshmallow               |linear     |81   |akkor acr75         |     |
+|23. |Wuque Studio Aurora Fog             |linear     |22   |box         |     |
+|24. |Wuque Studio Aurora Fog             |linear     |68   |melgeek mojo68|     |
