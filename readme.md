@@ -7,6 +7,9 @@ My keyboard related stuff.
 * Keyboards: https://www.youtube.com/playlist?list=PLkdl7PZ0ThV73s7npBp-ebjgZmCkOe97V
 * DOIO sound tests: https://www.youtube.com/playlist?list=PLkdl7PZ0ThV6acTvZnGU3gREz8XoLlfXU
 
+## Modding Logs
+
+* Keychron Q60: [keychron-q60](./keychron-q60)
 
 ## Switch Stock
 
