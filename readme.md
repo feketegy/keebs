@@ -13,29 +13,31 @@ My keyboard related stuff.
 
 ## Switch Stock
 
-| |Name                                 |Type       |Units|Location    |TOTAL|
-|---|-------------------------------------|-----------|-----|------------|-----|
-|1. |Cherry MV Viola                     |crosslinear|100  |box         |1683|
-|2. |Cherry MX Black Hyperglide          |linear     |90   |box         |     |
-|3. |Cherry MX Black RGB                 |linear     |70   |box         |     |
-|4. |Cherry MX Brown                     |tactile    |100  |box         |     |
-|5. |Cherry MX Brown                     |tactile    |83   |keychron v1 |     |
-|6. |Cherry MX Clear                     |tactile    |30   |box         |     |
-|7. |Cherry MX Clear                     |tactile    |60   |keychron q60         |     |
-|8. |Cherry MX Red                       |linear     |33   |box         |     |
-|9. |Cherry MX Red                       |linear     |57   |aurora lily58|     |
-|10. |Cherry MX Speed Silver              |linear     |88   |box         |     |
-|11. |Cherry MX Black - Nixie            |linear     |90   |box         |     |
-|12. |Gateron Ink Black V2                |linear     |80   |box         |     |
-|13. |Gateron Silver Pro                  |linear     |70   |box         |     |
-|14. |Gazzew Boba U4T Thocky              |tactile    |90   |box         |     |
-|15. |Gazzew Boba Black U4T Thocky        |tactile    |33   |box         |     |
-|16. |Gazzew Boba Black U4T Thocky        |tactile    |66   |keychron q2         |     |
-|17. |JWK Durock T1                       |tactile    |80   |box         |     |
-|18. |JWK Mint Chocolate                  |tactile    |91   |box         |     |
-|19. |Keychron Brown                      |tactile    |84   |box         |     |
-|20. | NovelKeys_ Cream+                  |linear     |108  |box         |     |
-|21. |Thic Tock Marshmallow               |linear     |9   |box         |     |
-|22. |Thic Tock Marshmallow               |linear     |81   |akkor acr75         |     |
-|23. |Wuque Studio Aurora Fog             |linear     |22   |box         |     |
-|24. |Wuque Studio Aurora Fog             |linear     |68   |melgeek mojo68|     |
+|Name                                 |Type       |Units|Location    |TOTAL|
+|-------------------------------------|-----------|-----|------------|-----|
+|C3 Equalz x TKC Tangerine |linear |90 |box | 1863|
+|Cherry MV Viola                     |crosslinear|100  |box         | |
+|Cherry MX Black Hyperglide          |linear     |90   |box         |     |
+|Cherry MX Black RGB                 |linear     |70   |box         |     |
+|Cherry MX Brown                     |tactile    |100  |box         |     |
+|Cherry MX Brown                     |tactile    |83   |keychron v1 |     |
+|Cherry MX Clear                     |tactile    |30   |box         |     |
+|Cherry MX Clear                     |tactile    |60   |keychron q60         |     |
+|Cherry MX Red                       |linear     |33   |box         |     |
+|Cherry MX Red                       |linear     |57   |aurora lily58|     |
+|Cherry MX Speed Silver              |linear     |88   |box         |     |
+|Cherry MX Black - Nixie            |linear     |90   |box         |     |
+|Gateron Ink Black V2                |linear     |80   |box         |     |
+|Gateron Silver Pro                  |linear     |70   |box         |     |
+|Gazzew Boba U4T Thocky              |tactile    |90   |box         |     |
+|Gazzew Boba Black U4T Thocky        |tactile    |33   |box         |     |
+|Gazzew Boba Black U4T Thocky        |tactile    |66   |keychron q2         |     |
+|JWK Durock T1                       |tactile    |80   |box         |     |
+|JWK Mint Chocolate                  |tactile    |91   |box         |     |
+|Kailh Box Jade |clicky |90 |box | |
+|Keychron Brown                      |tactile    |84   |box         |     |
+| NovelKeys_ Cream+                  |linear     |108  |box         |     |
+|Thic Tock Marshmallow               |linear     |9   |box         |     |
+|Thic Tock Marshmallow               |linear     |81   |akkor acr75         |     |
+|Wuque Studio Aurora Fog             |linear     |22   |box         |     |
+|Wuque Studio Aurora Fog             |linear     |68   |melgeek mojo68|     |
