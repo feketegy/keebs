@@ -92,6 +92,8 @@ Afraid that the bare metal interior would short out the PCB I added a layer of m
 
 I decided if it's a metal case and then it should also sound metal :) so I threw out the Cherry MX Clears and put in Kailh Box Jades.
 
+I also switched out the stabs to Akko stabs (image below shows the Keychron stabs).
+
 ![box jade switches](./images/017.jpeg)
 
 ### 5.3. Keycaps
