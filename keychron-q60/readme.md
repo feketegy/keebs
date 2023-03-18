@@ -59,6 +59,55 @@ Second pass of polish.
 
 ![sanding 2](./images/010-2.jpeg)
 
+## 4. Re-polishing
+
+The interior of the case needed a lot of work as there were sut erevywhere, I decided to sand the case all the way back and re-polish it again.
+
+
+### Interior
+![sanding 3](./images/012.jpeg)
+
+### Back
+![polished](./images/014.jpeg)
+
+### Front
+![front](./images/016.jpeg)
+
+The light doesn't do justice to the metal, even though I didn't got to mirror shine the whole metal, I achieved somewhat a mirror polish. It's between a mirror shine and a matte polished look, which I like better as the fingerprints on the case is not that visible.
+
+For the polishing paste I used one of the best polishers money could buy, it's the Mother's Mag & Aluminium Polish.
+
+![mother's mag aluminium polish](./images/mothers-mag.jpeg)
+
+
+## 5. Modding
+
+### 5.1. Tape Mod
+
+Afraid that the bare metal interior would short out the PCB I added a layer of masking tape to it, dapening the sound a little, but it won't matter, read below :)
+
+![tape mod](./images/013.jpeg)
+
+### 5.2. Switches
+
+I decided if it's a metal case and then it should also sound metal :) so I threw out the Cherry MX Clears and put in Kailh Box Jades.
+
+![box jade switches](./images/017.jpeg)
+
+### 5.3. Keycaps
+
+I wanted a pastel looking color for this case, but to be honest all colors will look good with polished metal. I bought Novelkeys_ Sands keycaps, which is a cherry profile set.
+
+In the future, maybe I will change it, I also kinda want to see how it would look like with a more stronger color, like a PBT Cherry Copper or even a GMK Copper.
+
+
+![polished](./images/018.jpeg)
+
+
+
+
+
+
 
 
 
