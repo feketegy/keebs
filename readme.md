@@ -21,8 +21,7 @@ My keyboard related stuff.
 |Cherry MX Black RGB                 |linear     |70   |box         |     |
 |Cherry MX Brown                     |tactile    |100  |box         |     |
 |Cherry MX Brown                     |tactile    |83   |keychron v1 |     |
-|Cherry MX Clear                     |tactile    |30   |box         |     |
-|Cherry MX Clear                     |tactile    |60   |keychron q60         |     |
+|Cherry MX Clear                     |tactile    |90   |box         |     |
 |Cherry MX Red                       |linear     |33   |box         |     |
 |Cherry MX Red                       |linear     |57   |aurora lily58|     |
 |Cherry MX Speed Silver              |linear     |88   |box         |     |
@@ -34,7 +33,8 @@ My keyboard related stuff.
 |Gazzew Boba Black U4T Thocky        |tactile    |66   |keychron q2         |     |
 |JWK Durock T1                       |tactile    |80   |box         |     |
 |JWK Mint Chocolate                  |tactile    |91   |box         |     |
-|Kailh Box Jade |clicky |90 |box | |
+|Kailh Box Jade |clicky |30 |box | |
+|Kailh Box Jade |clicky |60 |keychron q60 | |
 |Keychron Brown                      |tactile    |84   |box         |     |
 | NovelKeys_ Cream+                  |linear     |108  |box         |     |
 |Thic Tock Marshmallow               |linear     |9   |box         |     |
