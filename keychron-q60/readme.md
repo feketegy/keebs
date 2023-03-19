@@ -105,6 +105,23 @@ In the future, maybe I will change it, I also kinda want to see how it would loo
 
 ![polished](./images/018.jpeg)
 
+## Gallery
+
+Sound test can be found here: https://www.youtube.com/shorts/PxtCu1UN928
+
+-----
+
+![gallery 1](./images/q60_1.jpg)
+
+-----
+
+![gallery 1](./images/q60_2.jpg)
+
+-----
+
+![gallery 1](./images/q60_3.jpg)
+
+
 
 
 
