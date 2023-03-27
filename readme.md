@@ -15,7 +15,7 @@ My keyboard related stuff.
 
 |Name                                 |Type       |Units|Location    |TOTAL|
 |-------------------------------------|-----------|-----|------------|-----|
-|C3 Equalz x TKC Tangerine |linear |90 |box | 1863|
+|C3 Equalz x TKC Tangerine |linear |90 |box | 1953|
 |Cherry MV Viola                     |crosslinear|100  |box         | |
 |Cherry MX Black Hyperglide          |linear     |90   |box         |     |
 |Cherry MX Black RGB                 |linear     |70   |box         |     |
@@ -29,8 +29,7 @@ My keyboard related stuff.
 |Gateron Ink Black V2                |linear     |80   |box         |     |
 |Gateron Silver Pro                  |linear     |70   |box         |     |
 |Gazzew Boba U4T Thocky              |tactile    |90   |box         |     |
-|Gazzew Boba Black U4T Thocky        |tactile    |33   |box         |     |
-|Gazzew Boba Black U4T Thocky        |tactile    |66   |keychron q2         |     |
+|Gazzew Boba Black U4T Thocky        |tactile    |99   |box         |     |
 |JWK Durock T1                       |tactile    |80   |box         |     |
 |JWK Mint Chocolate                  |tactile    |91   |box         |     |
 |Kailh Box Jade |clicky |30 |box | |
@@ -41,3 +40,5 @@ My keyboard related stuff.
 |Thic Tock Marshmallow               |linear     |81   |akkor acr75         |     |
 |Wuque Studio Aurora Fog             |linear     |22   |box         |     |
 |Wuque Studio Aurora Fog             |linear     |68   |melgeek mojo68|     |
+|ZealPC Clickiez 40g |clicky |24 |box | |
+|ZealPC Clickiez 40g |clicky |66 |keychron q2 | |
