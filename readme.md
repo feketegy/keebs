@@ -15,7 +15,7 @@ My keyboard related stuff.
 
 |Name                                 |Type       |Units|Location    |TOTAL|
 |-------------------------------------|-----------|-----|------------|-----|
-|C3 Equalz x TKC Tangerine |linear |90 |box | 1953|
+|C3 Equalz x TKC Tangerine |linear |90 |box | 1865|
 |Cherry MV Viola                     |crosslinear|100  |box         | |
 |Cherry MX Black Hyperglide          |linear     |90   |box         |     |
 |Cherry MX Black RGB                 |linear     |70   |box         |     |
@@ -24,7 +24,7 @@ My keyboard related stuff.
 |Cherry MX Clear                     |tactile    |90   |box         |     |
 |Cherry MX Red                       |linear     |33   |box         |     |
 |Cherry MX Red                       |linear     |57   |aurora lily58|     |
-|Cherry MX Speed Silver              |linear     |88   |box         |     |
+|~~Cherry MX Speed Silver~~              |~~linear~~     |~~88~~   |sold         |     |
 |Cherry MX Black - Nixie            |linear     |90   |box         |     |
 |Gateron Ink Black V2                |linear     |80   |box         |     |
 |Gateron Silver Pro                  |linear     |70   |box         |     |
@@ -36,8 +36,7 @@ My keyboard related stuff.
 |Kailh Box Jade |clicky |60 |keychron q60 | |
 |Keychron Brown                      |tactile    |84   |box         |     |
 | NovelKeys_ Cream+                  |linear     |108  |box         |     |
-|Thic Tock Marshmallow               |linear     |9   |box         |     |
-|Thic Tock Marshmallow               |linear     |81   |akkor acr75         |     |
+|Thic Tock Marshmallow               |linear     |90   |box         |     |
 |Wuque Studio Aurora Fog             |linear     |22   |box         |     |
 |Wuque Studio Aurora Fog             |linear     |68   |melgeek mojo68|     |
 |ZealPC Clickiez 40g |clicky |24 |box | |
