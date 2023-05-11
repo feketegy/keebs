@@ -15,6 +15,8 @@ My keyboard related stuff.
 * Keychron Q60: [Modding Log](./keychron-q60)
 * MelGeek Mojo68
 * PFU HHKB Professional Classic
+* Megalodon DOIO KB16
+* Mgalodon Outemu Big Switch
 
 ## Switch Stock
 
