@@ -15,7 +15,7 @@ My keyboard related stuff.
 
 |Name                                 |Type       |Units|Location    |TOTAL|
 |-------------------------------------|-----------|-----|------------|-----|
-|C3 Equalz x TKC Tangerine |linear |90 |box | 1865|
+|C3 Equalz x TKC Tangerine |linear |90 |box | 1955|
 |Cherry MV Viola                     |crosslinear|100  |box         | |
 |Cherry MX Black Hyperglide          |linear     |90   |box         |     |
 |Cherry MX Black RGB                 |linear     |70   |box         |     |
@@ -34,6 +34,7 @@ My keyboard related stuff.
 |JWK Mint Chocolate                  |tactile    |91   |box         |     |
 |Kailh Box Jade |clicky |30 |box | |
 |Kailh Box Jade |clicky |60 |keychron q60 | |
+|Kailh Box White |clicky |90 |box | |
 |Keychron Brown                      |tactile    |84   |box         |     |
 | NovelKeys_ Cream+                  |linear     |108  |box         |     |
 |Thic Tock Marshmallow               |linear     |90   |box         |     |
