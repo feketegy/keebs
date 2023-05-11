@@ -10,6 +10,7 @@ My keyboard related stuff.
 ## Current Boards
 
 * Aurora Lily58
+* Apple A1048: Currently working on converting it to mechanical
 * Keychron V1
 * Keychron Q2
 * Keychron Q60: [Modding Log](./keychron-q60)
