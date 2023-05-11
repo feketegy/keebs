@@ -7,9 +7,14 @@ My keyboard related stuff.
 * Keyboards: https://www.youtube.com/playlist?list=PLkdl7PZ0ThV73s7npBp-ebjgZmCkOe97V
 * DOIO sound tests: https://www.youtube.com/playlist?list=PLkdl7PZ0ThV6acTvZnGU3gREz8XoLlfXU
 
-## Modding Logs
+## Current Boards
 
-* Keychron Q60: [keychron-q60](./keychron-q60)
+* Aurora Lily58
+* Keychron V1
+* Keychron Q2
+* [Keychron Q60](./keychron-q60)
+* MelGeek Mojo68
+* PFU HHKB Professional Classic
 
 ## Switch Stock
 
