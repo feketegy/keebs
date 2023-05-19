@@ -34,7 +34,7 @@ My keyboard related stuff.
 |Cherry MX Red                       |linear     |57   |aurora lily58|     |
 |~~Cherry MX Speed Silver~~              |~~linear~~     |~~88~~   |sold         |     |
 |Cherry MX Black - Nixie            |linear     |90   |box         |     |
-|~~Gateron Ink Black V2~~                |~~linear~~     |~~80~~   |         |     |
+|~~Gateron Ink Black V2~~                |~~linear~~     |~~80~~   |sold         |     |
 |Gateron Silver Pro                  |linear     |70   |box         |     |
 |Gazzew Boba U4T Thocky              |tactile    |90   |box         |     |
 |Gazzew Boba Black U4T Thocky        |tactile    |99   |box         |     |
