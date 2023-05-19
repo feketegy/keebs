@@ -23,7 +23,7 @@ My keyboard related stuff.
 
 |Name                                 |Type       |Units|Location    |TOTAL|
 |-------------------------------------|-----------|-----|------------|-----|
-|C3 Equalz x TKC Tangerine |linear |90 |box | 1955|
+|C3 Equalz x TKC Tangerine |linear |90 |box | 1875|
 |Cherry MV Viola                     |crosslinear|100  |box         | |
 |Cherry MX Black Hyperglide          |linear     |90   |box         |     |
 |Cherry MX Black RGB                 |linear     |70   |box         |     |
@@ -34,7 +34,7 @@ My keyboard related stuff.
 |Cherry MX Red                       |linear     |57   |aurora lily58|     |
 |~~Cherry MX Speed Silver~~              |~~linear~~     |~~88~~   |sold         |     |
 |Cherry MX Black - Nixie            |linear     |90   |box         |     |
-|Gateron Ink Black V2                |linear     |80   |box         |     |
+|~~Gateron Ink Black V2~~                |~~linear~~     |~~80~~   |         |     |
 |Gateron Silver Pro                  |linear     |70   |box         |     |
 |Gazzew Boba U4T Thocky              |tactile    |90   |box         |     |
 |Gazzew Boba Black U4T Thocky        |tactile    |99   |box         |     |
