@@ -30,6 +30,7 @@ My keyboard related stuff.
 |<img src="./switch-images/cherry-mx-brown.png" width="200" /> |Cherry MX Brown                     |tactile    |100  |box         |     |
 |<img src="./switch-images/cherry-mx-brown.png" width="200" /> |Cherry MX Brown                     |tactile    |83   |keychron v1 |     |
 |<img src="./switch-images/cherry-mx-clear.png" width="200" /> |Cherry MX Clear                     |tactile    |90   |box         |     |
+|<img src="./switch-images/cherry-mx-clear.png" width="200" /> |Cherry MX Ergo Clear                     |tactile    |200   |box         |     |
 |<img src="./switch-images/cherry-mx-red.png" width="200" /> |Cherry MX Red                       |linear     |33   |box         |     |
 |<img src="./switch-images/cherry-mx-red.png" width="200" /> |Cherry MX Red                       |linear     |57   |aurora lily58|     |
 |<img src="./switch-images/cherry-mx-speed-silver.png" width="200" /> |~~Cherry MX Speed Silver~~              |~~linear~~     |~~88~~   |sold         |     |
