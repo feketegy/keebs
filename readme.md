@@ -17,7 +17,8 @@ My keyboard related stuff.
 * MelGeek Mojo68
 * PFU HHKB Professional Classic
 * Megalodon DOIO KB16
-* Mgalodon Outemu Big Switch
+* Megalodon Outemu Big Switch
+* Zoom65 v2 Wild Green
 
 ## Switch Stock
 
