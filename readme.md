@@ -11,7 +11,6 @@ My keyboard related stuff.
 
 * Aurora Lily58
 * Apple A1048: Currently working on converting it to mechanical
-* Keychron V1
 * Keychron Q2
 * Keychron Q60: [Modding Log](./keychron-q60)
 * MelGeek Mojo68
@@ -21,28 +20,32 @@ My keyboard related stuff.
 * Megalodon Outemu Big Switch (White)
 * Zoom65 v2 Wild Green
 
+## Past Boards
+* Keychron V1 - _giveaway_
+
+
 ## Switch Stock
 
 | |Name                                 |Type       |Units|Location    |TOTAL|
 |----|-------------------------------------|-----------|-----|------------|-----|
 |<img src="./switch-images/c3-equalz-tkc-tangerine-light-green.png" width="200" /> |C3 Equalz x TKC Tangerine |linear |90 |box | 1875|
 |<img src="./switch-images/cherry-mv-viola.png" width="200" /> |Cherry MV Viola                     |crosslinear|100  |box         | |
-|<img src="./switch-images/cherry-mx-black-hyperglide.png" width="200" /> |Cherry MX Black Hyperglide          |linear     |90   |box         |     |
+|<img src="./switch-images/cherry-mx-black-hyperglide.png" width="200" /> |~~Cherry MX Black Hyperglide~~          |~~linear~~     |~~90~~   |         |giveaway     |
 |<img src="./switch-images/cherry-mx-black-rgb.png" width="200" /> |Cherry MX Black RGB                 |linear     |70   |box         |     |
-|<img src="./switch-images/cherry-mx-brown.png" width="200" /> |Cherry MX Brown                     |tactile    |100  |box         |     |
+|<img src="./switch-images/cherry-mx-brown.png" width="200" /> |~~Cherry MX Brown~~                     |~~tactile~~    |~~90~~  |         |giveaway     |
+|<img src="./switch-images/cherry-mx-brown.png" width="200" /> |Cherry MX Brown                     |tactile    |10  |box         |     |
 |<img src="./switch-images/cherry-mx-brown.png" width="200" /> |Cherry MX Brown                     |tactile    |83   |keychron v1 |     |
 |<img src="./switch-images/cherry-mx-clear.png" width="200" /> |Cherry MX Clear                     |tactile    |90   |box         |     |
 |<img src="./switch-images/cherry-mx-clear.png" width="200" /> |Cherry MX Ergo Clear                     |tactile    |200   |box         |     |
-|<img src="./switch-images/cherry-mx-red.png" width="200" /> |Cherry MX Red                       |linear     |33   |box         |     |
-|<img src="./switch-images/cherry-mx-red.png" width="200" /> |Cherry MX Red                       |linear     |57   |aurora lily58|     |
+|<img src="./switch-images/cherry-mx-red.png" width="200" /> |~~Cherry MX Red~~                       |~~linear~~     |~~90~~   |         |giveaway     |
 |<img src="./switch-images/cherry-mx-speed-silver.png" width="200" /> |~~Cherry MX Speed Silver~~              |~~linear~~     |~~88~~   |sold         |     |
 |<img src="./switch-images/cherry-mx-black-nixie.png" width="200" /> |Cherry MX Black - Nixie            |linear     |90   |box         |     |
 |<img src="./switch-images/gateron-ink-black-v2.png" width="200" /> |~~Gateron Ink Black V2~~                |~~linear~~     |~~80~~   |sold         |     |
 |<img src="./switch-images/gateron-silver-pro.png" width="200" /> |Gateron Silver Pro                  |linear     |70   |box         |     |
 |<img src="./switch-images/gazzew-boba-u4t-thocky.png" width="200" /> |Gazzew Boba U4T Thocky              |tactile    |90   |box         |     |
 |<img src="./switch-images/gazzew-boba-black-u4.png" width="200" /> |Gazzew Boba Black U4T Thocky        |tactile    |99   |box         |     |
-|<img src="./switch-images/jwk-durock-t1.png" width="200" /> |JWK Durock T1                       |tactile    |80   |box         |     |
-|<img src="./switch-images/jwk-mint-chocolate-chip.png" width="200" /> |JWK Mint Chocolate Chip                  |tactile    |91   |box         |     |
+|<img src="./switch-images/jwk-durock-t1.png" width="200" /> |~~JWK Durock T1~~                       |~~tactile~~    |~~80~~   |         |giveaway     |
+|<img src="./switch-images/jwk-mint-chocolate-chip.png" width="200" /> |~~JWK Mint Chocolate Chip~~                  |~~tactile~~    |~~90~~   |         |giveaway     |
 |<img src="./switch-images/kailh-box-jade.png" width="200" /> |Kailh Box Jade |clicky |30 |box | |
 |<img src="./switch-images/kailh-box-jade.png" width="200" /> |Kailh Box Jade |clicky |60 |keychron q60 | |
 |<img src="./switch-images/kailh-box-white.png" width="200" /> |Kailh Box White |clicky |90 |box | |
