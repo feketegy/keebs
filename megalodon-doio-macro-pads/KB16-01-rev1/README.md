@@ -1,5 +1,10 @@
 # Megalodon DOIO KB16-01 rev1
 
+## Notes
+
+- Works with any type of USB cable.
+- Needs VIA 1.3.1 to sideload the keymap file.
+
 <table>
   <tr>
   <td>
@@ -12,9 +17,7 @@
 </table>
 
 
-## VIA Sideloading
-
-Need to use VIA 1.3.1 to map the keys.
+## Files
 
 <table>
   <tr>
