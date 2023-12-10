@@ -31,4 +31,12 @@
     VIA keymap sideloaded JSON file, use this to load up the keys for mapping.
   </td>
   </tr>
+  <tr>
+  <td>
+    help.pdf
+  </td>
+  <td>
+    DOIO brochure PDF.
+  </td>
+  </tr>
 </table>
