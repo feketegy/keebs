@@ -15,10 +15,18 @@ My keyboard related stuff.
 * Keychron Q60: [Modding Log](./keychron-q60)
 * MelGeek Mojo68
 * PFU HHKB Professional Classic
-* Megalodon DOIO KB16
-* Megalodon Outemu Big Switch (Grey)
-* Megalodon Outemu Big Switch (White)
 * Zoom65 v2 Wild Green
+
+### Megalodon DOIO Macro Pads 
+
+* [KB16-01 Triple Knob rev1](Megalodon DOIO Macro Pads/KB16-01-rev1)
+* [KB16-01 Triple Knob rev2](Megalodon DOIO Macro Pads/KB16-01-rev2)
+* [KB03B-01 Bluetooth](Megalodon DOIO Macro Pads/KB03-01-bluetooth)
+* KB03-01
+* KB04
+* Outemu Big Switch (Grey)
+* Outemu Big Switch (White)
+
 
 ## Past Boards
 * Keychron V1 - _giveaway_
