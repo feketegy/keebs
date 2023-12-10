@@ -1,5 +1,11 @@
 # Megalodon DOIO KB16-01 rev2
 
+## Notes
+
+- MARKED REV2 under the board
+- Only works with its own USB-A to USB-C cable.
+
+
 <table>
   <tr>
   <td>
