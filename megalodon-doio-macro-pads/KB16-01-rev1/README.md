@@ -40,4 +40,12 @@
     Macros saved on the layout to manage windows using Rectangles Pro.
   </td>
   </tr>
+  <tr>
+  <td>
+    KB16.pdf
+  </td>
+  <td>
+    DOIO brochure PDF.
+  </td>
+  </tr>
 </table>

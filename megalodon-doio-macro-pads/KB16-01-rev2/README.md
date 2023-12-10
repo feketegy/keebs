@@ -56,4 +56,12 @@
     QMK Toolbox binary file for macOS to be use to flash the firmware.
   </td>
   </tr>
+  <tr>
+  <td>
+    KB16.pdf
+  </td>
+  <td>
+    DOIO brochure PDF.
+  </td>
+  </tr>
 </table>
