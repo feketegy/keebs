@@ -22,7 +22,7 @@ My keyboard related stuff.
 * [KB16-01 Triple Knob rev1](megalodon-doio-macro-pads/KB16-01-rev1)
 * [KB16-01 Triple Knob rev2](megalodon-doio-macro-pads/KB16-01-rev2)
 * [KB03B-01 Bluetooth](megalodon-doio-macro-pads/KB03-01-bluetooth)
-* KB03-01
+* [KB03-01](megalodon-doio-macro-pads/KB03-01)
 * [KB04-01](megalodon-doio-macro-pads/KB04-01)
 * Outemu Big Switch (Grey)
 * Outemu Big Switch (White)
