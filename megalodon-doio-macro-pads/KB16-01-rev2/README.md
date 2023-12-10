@@ -4,7 +4,7 @@
 
 - MARKED REV2 under the board
 - Only works with its own USB-A to USB-C cable.
-
+- Need to use VIA 2.2.0 or later to map the keys.
 
 <table>
   <tr>
@@ -17,9 +17,7 @@
   </tr>
 </table>
 
-## VIA Sideloading
-
-Need to use VIA 2.2.0 or later to map the keys.
+## Files
 
 <table>
   <tr>
