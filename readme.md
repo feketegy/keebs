@@ -15,6 +15,7 @@ My keyboard related stuff.
 * Keychron Q60: [Modding Log](./keychron-q60)
 * MelGeek Mojo68
 * PFU HHKB Professional Classic
+* Vortex M0110
 * Zoom65 v2 Wild Green
 
 ### Megalodon DOIO Macro Pads 
