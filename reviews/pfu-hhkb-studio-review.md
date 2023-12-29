@@ -48,7 +48,7 @@ This keycap set is just that, a nice-looking custom set that nobody will change 
 
 ![IMG_6459](https://github.com/feketegy/keebs/assets/489775/dfd3be0c-65b0-4b4a-a3e2-630277451f6d)
 
-No Topre unfortunately, is the main attraction when considering buying an HHKB. PFU doesn't think so, by ditching Topre using MX style switches on this PCB that can be hot-swapped. Ditching Topre at least for now, maybe in the future they will come out with another studio model with Topres.
+No Topre unfortunately, that is the main attraction when considering buying an HHKB. PFU doesn't think so, by ditching Topre and using MX style switches on this PCB that can be hot-swapped. Ditching Topre at least for now, maybe in the future they will come out with another studio model with Topres.
 
 PFU's PR response for ditching Topre is that users want silent switches to "immerse" themselves in whatever task they are doing which is total BS in my opinion. I hope that in the future we will see the Studio with Topres.
 
