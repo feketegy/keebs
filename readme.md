@@ -14,6 +14,7 @@ My keyboard related stuff.
 * Keychron Q2
 * Keychron Q60: [Modding Log](./keychron-q60)
 * MelGeek Mojo68
+* Model F Labs - Model F62 "Kishsaver"
 * PFU HHKB Professional Classic
 * PFU HHKB Studio: [Review](reviews/pfu-hhkb-studio-review.md)
 * Vortex M0110
