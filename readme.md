@@ -10,13 +10,12 @@ My keyboard related stuff.
 ## Current Boards
 
 * Aurora Lily58
-* Apple A1048: Currently working on converting it to mechanical
+* Apple A1048
 * Keychron Q2
 * Keychron Q60: [Modding Log](./keychron-q60)
 * MelGeek Mojo68
 * Model F Labs - Model F62 "Kishsaver"
 * PFU HHKB Professional Classic
-* PFU HHKB Studio: [Review](reviews/pfu-hhkb-studio-review.md)
 * Vortex M0110
 * Zoom65 v2 Wild Green
 
@@ -33,6 +32,7 @@ My keyboard related stuff.
 
 ## Past Boards
 * Keychron V1 - _giveaway_
+* PFU HHKB Studio: [Review](reviews/pfu-hhkb-studio-review.md) - _sold_
 
 
 ## Switch Stock
