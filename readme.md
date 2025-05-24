@@ -41,7 +41,7 @@ My keyboard related stuff.
 
 | |Name                                 |Type       |Units|Location    |TOTAL|
 |----|-------------------------------------|-----------|-----|------------|-----|
-|<img src="./switch-images/c3-equalz-tkc-tangerine-light-green.png" width="200" /> |C3 Equalz x TKC Tangerine |linear |90 |67/zoom65, 23/box | 1454 |
+|<img src="./switch-images/c3-equalz-tkc-tangerine-light-green.png" width="200" /> |C3 Equalz x TKC Tangerine |linear |90 |67/zoom65, 23/box | 1523 |
 |<img src="./switch-images/cherry-mx-black-nixie.png" width="200" /> |Cherry MX Black - Nixie            |linear     |90   |box         |     |
 |<img src="./switch-images/cherry-mx-black-rgb.png" width="200" /> |Cherry MX Black RGB                 |linear     |70   |box         |     |
 |<img src="./switch-images/cherry-mx-brown.png" width="200" /> |Cherry MX Brown                     |tactile    |93  |box         |     |
