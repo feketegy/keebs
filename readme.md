@@ -16,6 +16,8 @@ My keyboard related stuff.
 * MelGeek Mojo68
 * Model F Labs - Model F62 "Kishsaver"
 * PFU HHKB Professional Classic
+* Qwertykeys Neo60 Cu - Grey Gold / Copper
+* Qwertykeys Neo60 Cu - Nebula / Brass
 * Vortex M0110
 * Zoom65 v2 Wild Green
 
