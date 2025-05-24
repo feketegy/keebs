@@ -53,7 +53,7 @@ My keyboard related stuff.
 |<img src="./switch-images/gateron-silver-pro.png" width="200" /> |Gateron Silver Pro                  |linear     |70   |box         |     |
 |<img src="./switch-images/gazzew-boba-black-u4.png" width="200" /> |Gazzew Boba Black U4T Thocky        |tactile    |99   |box         |     |
 |<img src="./switch-images/kailh-box-jade.png" width="200" /> |Kailh Box Jade |clicky |90 |60/keychronq60, 30/box | |
-|<img src="./switch-images/kailh-box-white.png" width="200" /> |Kailh Box White |clicky |90 |box | |
+|<img src="./switch-images/kailh-box-white.png" width="200" /> |Kailh Box White |clicky |90 |box | 65/neo60 cu, 23/box |
 |<img src="./switch-images/keychron-brown.png" width="200" /> |Keychron Brown                      |tactile    |84   |box         |     |
 |<img src="./switch-images/novelkeys-cream-plus.png" width="200" /> | NovelKeys_ Cream+                  |linear     |108  |box         |     |
 |<img src="./switch-images/wuque-studio-auror-fog.png" width="200" /> |Wuque Studio Aurora Fog             |linear     |90   |68/melgeek mojo68, 22/box         |     |
