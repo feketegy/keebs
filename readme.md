@@ -42,12 +42,14 @@ My keyboard related stuff.
 | |Name                                 |Type       |Units|Location    |TOTAL|
 |----|-------------------------------------|-----------|-----|------------|-----|
 |<img src="./switch-images/c3-equalz-tkc-tangerine-light-green.png" width="200" /> |C3 Equalz x TKC Tangerine |linear |90 |67/zoom65, 23/box | 1454 |
-|<img src="./switch-images/cherry-mv-viola.png" width="200" /> |Cherry MV Viola                     |crosslinear|100  |box         | |
+|<img src="./switch-images/cherry-mx-black-nixie.png" width="200" /> |Cherry MX Black - Nixie            |linear     |90   |box         |     |
 |<img src="./switch-images/cherry-mx-black-rgb.png" width="200" /> |Cherry MX Black RGB                 |linear     |70   |box         |     |
 |<img src="./switch-images/cherry-mx-brown.png" width="200" /> |Cherry MX Brown                     |tactile    |93  |box         |     |
 |<img src="./switch-images/cherry-mx-clear.png" width="200" /> |Cherry MX Clear                     |tactile    |90   |box         |     |
 |<img src="./switch-images/cherry-mx-clear.png" width="200" /> |Cherry MX Ergo Clear                     |tactile    |110   |box         |     |
-|<img src="./switch-images/cherry-mx-black-nixie.png" width="200" /> |Cherry MX Black - Nixie            |linear     |90   |box         |     |
+|<img src="./switch-images/cherry-mx-purple-glarses.png" width="200" /> |Cherry MX Purple - Glarses                     |tactile    |108   |box         |     |
+|<img src="./switch-images/cherry-mv-viola.png" width="200" /> |Cherry MV Viola                     |crosslinear|100  |box         | |
+|<img src="./switch-images/gateron-g-pro-retro-white.png" width="200" /> |Gateron G Pro Retro White                  |linear     |60   |box         |     |
 |<img src="./switch-images/gateron-silver-pro.png" width="200" /> |Gateron Silver Pro                  |linear     |70   |box         |     |
 |<img src="./switch-images/gazzew-boba-black-u4.png" width="200" /> |Gazzew Boba Black U4T Thocky        |tactile    |99   |box         |     |
 |<img src="./switch-images/kailh-box-jade.png" width="200" /> |Kailh Box Jade |clicky |90 |60/keychronq60, 30/box | |
