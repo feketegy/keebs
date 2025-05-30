@@ -28,4 +28,20 @@
     QMK firmware
   </td>
   </tr>
+   <tr>
+  <td>
+    neo60.layout.json
+  </td>
+  <td>
+    VIA custom layout
+  </td>
+  </tr>
+   <tr>
+  <td>
+    qwertykeys-guide.mhtml
+  </td>
+  <td>
+    Build guide saved from <a href="https://qwertykeys.notion.site/Neo65-60-Cu-Build-Guide-1863d090094280babee7ce4ff3901aa8">Qwertykeys</a>
+  </td>
+  </tr>
 </table>
